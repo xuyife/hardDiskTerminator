@@ -8,7 +8,7 @@
 
 ## 下载
 
-Windows下载：[xuyife/hardDiskTerninator (github.com)](https://github.com/xuyife/hardDiskTerninator/release)
+Windows下载：[saa](https://github.com/xuyife/hardDiskTerninator/releases/)
 
 ## 源码以及框架依赖
 
