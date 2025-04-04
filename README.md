@@ -8,11 +8,13 @@
 
 ## 下载
 
-Windows下载：[saa](https://github.com/xuyife/hardDiskTerninator/releases/)
+Windows下载：[xuyife/hardDiskTerninator (github.com)](https://github.com/xuyife/hardDiskTerninator/releases/)
 
 ## 源码以及框架依赖
 
 采用了maven框架，javaswing设计思路，中途还有依赖的dos命令
+
+1.1版本补充，包含循环递归写入代码
 
 原版构建采用了jdk1.8
 
@@ -35,4 +37,4 @@ Windows下载：[saa](https://github.com/xuyife/hardDiskTerninator/releases/)
 ## 版本(RELEASE)
 
 - hardDiskTerminator-1.0 build jdk1.8.0_381-b09 ge_release-001-100
-
+- hardDiskTerminator-1.1 build jdk1.8.0_381-b09 release
